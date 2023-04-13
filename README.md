@@ -20,22 +20,22 @@ Currently, following features are implemented:
 * ...
 
 ## Quickstart
-1. Clone the repo
+### 1. Clone the repo
     ```
     $ git clone https://github.com/shahriar-R/microservices.git
     $ cd flask-blog
   ```
-2. Initialize and activate a virtualenv:
+### 2. Initialize and activate a virtualenv:
   ```
     $ virtualenv --no-site-packages env
     $ source env/bin/activate
   ```
-  3. Install the dependencies:
+### 3. Install the dependencies:
   ```
     $ pip install -r requirements.txt
 
   ```
-4. create Database
+### 4. create Database
 
  ```
 ### You can create a migration repository with the following command
@@ -55,12 +55,12 @@ Currently, following features are implemented:
 ```
  
     
-5. Run the development server:
+### 5. Run the development server:
   ```
     $ python run.py
   ```
 
-6. Navigate to [http://localhost:5000](http://localhost:5000)
+### 6. Navigate to [http://localhost:5000](http://localhost:5000)
 
 
 
