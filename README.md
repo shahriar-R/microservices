@@ -35,7 +35,7 @@ This is how you set up an development instance of Flask-Blog:
 
 ## License
 
-Flask-blog is licensed under the [BSD License](https://github.com/shahriar-R/microservices/flask-blog/LICENSE).
+Flask-blog is licensed under the [MIT License](https://github.com/shahriar-R/microservices/blob/main/LICENSE).
 
 
 # Links
