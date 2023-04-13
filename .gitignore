@@ -119,6 +119,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.db
+migrations
 
 # Spyder project settings
 .spyderproject
