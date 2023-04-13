@@ -29,28 +29,28 @@ Currently, following features are implemented:
 
 2. Initialize and activate a virtualenv:
   ```
-  $ virtualenv --no-site-packages env
-  $ source env/bin/activate
+    $ virtualenv --no-site-packages env
+    $ source env/bin/activate
   ```
 
 3. Install the dependencies:
   ```
-  $ pip install -r requirements.txt
+    $ pip install -r requirements.txt
 
   ```
 4. create Database
     ```
-    ### You can create a migration repository with the following command
-    * `flask db init`
-    ### You can then generate an initial migration
-    * `flask db migrate`
-    ### Then you can apply the changes described by the migration script to your database:
-    * `flask db upgrade`
+        ### You can create a migration repository with the following command
+        * `flask db init`
+        ### You can then generate an initial migration
+        * `flask db migrate`
+        ### Then you can apply the changes described by the migration script to your database:
+        * `flask db upgrade`
     ```
 
 5. Run the development server:
   ```
-  $ python run.py
+    $ python run.py
   ```
 
 6. Navigate to [http://localhost:5000](http://localhost:5000)
