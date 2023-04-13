@@ -29,7 +29,14 @@ This is how you set up an development instance of Flask-Blog:
 * Install dependencies and Flask-Blog
     * `pip install requirements.txt`
 * Run the development server
-    * `python run.py`
+    ### You can create a migration repository with the following command
+    * `flask db init`
+    ### You can then generate an initial migration
+    * `flask db migrate`
+    ### Then you can apply the changes described by the migration script to your database:
+    * `flask db upgrade`
+    ## To run the application:
+    * `python run.py` or `flask run`
 * Visit [localhost:5000](http://localhost:5000)
 
 
