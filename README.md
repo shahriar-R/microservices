@@ -37,7 +37,7 @@ Currently, following features are implemented:
   ```
 4. create Database
 
- 
+ ```
 ## You can create a migration repository with the following command
 
 ```
