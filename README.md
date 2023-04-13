@@ -21,10 +21,10 @@ Currently, following features are implemented:
 
 ## Quickstart
 ### 1. Clone the repo
-    ```
+```
     $ git clone https://github.com/shahriar-R/microservices.git
     $ cd flask-blog
-  ```
+```
 ### 2. Initialize and activate a virtualenv:
   ```
     $ virtualenv --no-site-packages env
