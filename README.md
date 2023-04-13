@@ -38,17 +38,17 @@ Currently, following features are implemented:
 4. create Database
 
  
-### You can create a migration repository with the following command
+## You can create a migration repository with the following command
 
 ```
     flask db init 
 ```
-### You can then generate an initial migration
+## You can then generate an initial migration
 
  ```
     flask db migrate
 ```
-### Then you can apply the changes described by the migration script to your database:
+## Then you can apply the changes described by the migration script to your database:
 
 ```
     flask db upgrade
