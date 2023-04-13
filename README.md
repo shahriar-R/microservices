@@ -22,11 +22,11 @@ Currently, following features are implemented:
 ## Quickstart
 
 
-This is how you set up an development instance of FlaskBB:
+This is how you set up an development instance of Flask-Blog:
 
 * Create a virtualenv
 
-* Install dependencies and FlaskBB
+* Install dependencies and Flask-Blog
     * `pip install requirements.txt`
 * Run the development server
     * `python run.py`
